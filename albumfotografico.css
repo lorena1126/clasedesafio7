@@ -1,0 +1,45 @@
+
+
+.img-logo{
+	width: 24px;
+}
+
+.centrado{
+	text-align: center;
+	padding-bottom: 18px;
+}
+
+.img-logo-final{
+	width: 24px;
+  
+}
+.textoprincipal{
+	position: absolute;
+	top:90px;
+	text-align: center;
+	color: white;
+}
+
+  .fondofooter{
+  	background-color: #efeded;
+  }
+
+.aire{
+	padding-top: 20px;
+}
+
+.linea{
+	color:#ddd;
+	size:3px;
+	width: 100%;
+
+}
+.thumbnail{
+	border: 6px solid #ddd;
+	border-radius: 20px;
+	padding:0;
+}
+
+.bordeimagen{
+	border-radius: 20px 20px 0 0;
+}
